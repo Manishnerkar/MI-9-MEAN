@@ -1,0 +1,10 @@
+h1 {
+    box-shadow: 10px 10px 5px rgb(226, 151, 60);
+    padding-left: 300px;
+}
+
+h2 {
+    box-shadow: 10px 10px 5px rgb(64, 97, 57);
+    padding-left: 300px;
+    float: right;
+}
